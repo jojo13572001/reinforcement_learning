@@ -1,0 +1,1 @@
+\pi (a|s,\theta )\quad =\quad Pr({ A }_{ t }=a|{ S }_{ t }=s,{ \theta  }_{ t }=\theta )

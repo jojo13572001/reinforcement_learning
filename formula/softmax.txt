@@ -1,0 +1,1 @@
+\pi (a|s,\theta )\quad =\quad \frac { { e }^{ h(s,a,\theta ) } }{ \sum _{ b }^{ \quad  }{ { e }^{ h(s,a,\theta ) } }  } 

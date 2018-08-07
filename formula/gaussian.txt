@@ -1,0 +1,1 @@
+\pi (a|s,\theta )\quad \dot { = } \frac { 1 }{ \sigma (s,\theta )\sqrt { 2\pi  }  } exp(-\frac { a-\mu { (s,\theta ) }^{ 2 } }{ 2\sigma { (s,\theta ) }^{ 2 } } )

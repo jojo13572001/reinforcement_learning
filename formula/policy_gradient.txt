@@ -1,0 +1,1 @@
+\nabla J(\theta )\quad \propto \quad \sum _{ s }^{ \quad  }{ \mu (s)\sum _{ a }^{ \quad  }{ { q }_{ \pi  } }  } (s,a)\nabla \pi (a|s,\theta )\\ ={ \Epsilon  }_{ \pi  }\left[ \sum _{ a }^{ \_  }{ { q }_{ \pi  }({ S }_{ t },a)\nabla \pi (a|{ S }_{ t },\theta ) }  \right] 

@@ -1,0 +1,1 @@
+\sum _{ { s }^{ ' } }^{ \quad  }{ \eta ({ s }^{ ' }) } \sum _{ s }^{ \quad  }{ \frac { \eta (s) }{ \sum _{ { s }^{ '' } }^{ \quad  }{ \eta ({ s }^{ '' }) }  }  } \sum _{ a }^{ \quad  }{ \nabla \pi (a|s){ q }_{ \pi  }( } s,a)

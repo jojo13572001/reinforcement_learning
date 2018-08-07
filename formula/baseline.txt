@@ -1,0 +1,1 @@
+\nabla J(\theta )\quad \propto \quad \sum _{ s }^{ \quad  }{ \mu (s)\sum _{ a }^{ \quad  }{ ({ q }_{ \pi  } } -b(s)) } \nabla \pi (a|s,\theta )\\ \sum _{ a }^{ \quad  }{ b(s)\nabla \pi (a|s,\theta ) } =\quad b(s)\nabla \sum _{ a }^{ \quad  }{ \pi (a|s,\theta ) } =\quad b(s)\nabla 1\quad =0

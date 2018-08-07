@@ -1,0 +1,1 @@
+{ \theta  }_{ t+1 }={ \theta  }_{ t }+\alpha \sum _{ a }^{ \_  }{ \widehat { q }  } ({ S }_{ t },a,w)\nabla \pi (a|{ S }_{ t },\theta )

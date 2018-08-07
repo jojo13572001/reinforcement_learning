@@ -1,0 +1,1 @@
+\mu (s,\theta )\dot { = } { { \theta  }_{ \mu  } }^{ T }{ x }_{ \mu  }(s)\\ \sigma (s,\theta )\dot { = } exp({ { \theta  }_{ \sigma  } }^{ T }{ x }_{ \sigma  }(s))

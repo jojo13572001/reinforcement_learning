@@ -1,0 +1,1 @@
+{ \theta  }_{ t+1 }={ \theta  }_{ t }+\alpha \widehat { \nabla J({ \theta  }_{ t }) } 
