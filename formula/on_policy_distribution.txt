@@ -1,0 +1,1 @@
+\sum _{ s }^{ \quad  }{ \mu (s)\sum _{ a }^{ \quad  }{ \pi (a|s,\theta ) } p(s'|s,a)=\mu (s'),\quad for\quad all\quad s'\in S } 
