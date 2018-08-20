@@ -1,0 +1,1 @@
+{ \theta  }_{ t+1 }={ \theta  }_{ t }+\alpha (\underbrace { { r }_{ j }+\gamma \max _{ a' }{ \hat { Q } ({ \phi  }_{ j+1 },{ a }^{ ' };{ { \theta  }_{ t }^{ - } }) }  }_{ Target } -Q({ \phi  }_{ j },{ a }_{ j };{ \theta  }_{ t })){ \nabla  }Q({ \phi  }_{ j },{ a }_{ j };{ \theta  }_{ t })
